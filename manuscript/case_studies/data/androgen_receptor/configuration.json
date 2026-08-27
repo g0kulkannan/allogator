@@ -1,0 +1,25 @@
+{
+  "protein": "androgen receptor",
+  "accession": "P10275",
+  "attention_model": "ESM-1b (esm1b_t33_650M_UR50S)",
+  "attention_aggregation": "mean over all 33 layers and 20 heads; rows are query residues and columns are key residues; BOS/EOS removed",
+  "active_site_residue_weights": {
+    "705": 2,
+    "706": 2,
+    "750": 1,
+    "753": 2,
+    "878": 2
+  },
+  "candidate_exclusion_radius_in_sequence": 1,
+  "dna_binding_domain_residue_range_inclusive": [556, 623],
+  "attention_percentile_cutoff": 90,
+  "figureS9_display_excluded_positions_1_based": [
+    67,
+    98,
+    176,
+    207,
+    332,
+    477,
+    517
+  ]
+}

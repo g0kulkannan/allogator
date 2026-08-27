@@ -1,0 +1,22 @@
+name: allogator
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - biopython
+  - tqdm
+  - pytorch
+  - transformers
+  - sentencepiece
+  - huggingface_hub
+  - pip
+  - pip:
+    - fair-esm

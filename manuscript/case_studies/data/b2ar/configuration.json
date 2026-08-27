@@ -1,0 +1,22 @@
+{
+  "protein": "beta-2 adrenergic receptor",
+  "accession": "P07550",
+  "attention_model": "ESM-1b (esm1b_t33_650M_UR50S)",
+  "attention_aggregation": "mean over all 33 layers and 20 heads; rows are query residues and columns are key residues; BOS/EOS removed",
+  "active_site_residues_1_based": [
+    113,
+    114,
+    117,
+    193,
+    203,
+    207,
+    289,
+    290,
+    293,
+    312,
+    316
+  ],
+  "candidate_exclusion_radius_in_sequence": 1,
+  "evcouplings_residue_range_inclusive": [33, 346],
+  "ohm_pdb_chain": "A"
+}

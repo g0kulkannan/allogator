@@ -1,0 +1,21 @@
+# New-protein prediction
+numpy>=1.26,<2.3
+scipy>=1.11
+torch>=2.2
+fair-esm>=2.0.0
+
+# Publication analyses and figures
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.8
+seaborn>=0.13
+statsmodels>=0.14
+biopython>=1.83
+tqdm>=4.66
+transformers>=4.38
+sentencepiece>=0.2
+huggingface_hub>=0.20
+
+# Optional: for supplementary PyMOL structure sessions
+# install PyMOL Open-Source 2.5+ separately via conda:
+# conda install -c conda-forge pymol-open-source

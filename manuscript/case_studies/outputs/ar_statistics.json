@@ -1,0 +1,65 @@
+{
+  "accession": "P10275",
+  "active_site_residue_weights": {
+    "705": 2,
+    "706": 2,
+    "750": 1,
+    "753": 2,
+    "878": 2
+  },
+  "af3_plddt_rows": 920,
+  "androgen_db": {
+    "clinical_variant_positions": 356,
+    "normal_positions": 2,
+    "unique_positions": 358
+  },
+  "attention_cutoff": 0.02162099480628967,
+  "attention_percentile": 90.0,
+  "candidate_clinical_status_counts": {
+    "clinical_variant": 348,
+    "normal": 2,
+    "unknown": 557
+  },
+  "candidate_score_count": 907,
+  "figureS9_population": {
+    "clinical_status_counts": {
+      "clinical_variant": 347,
+      "unknown": 553
+    },
+    "color_counts": {
+      "gray": 553,
+      "purple": 347
+    },
+    "excluded_positions": [
+      67,
+      98,
+      176,
+      207,
+      332,
+      477,
+      517
+    ],
+    "rows": 900
+  },
+  "high_attention_DBD_residues": [
+    {
+      "attention_score": 0.03216319531202316,
+      "residue": "F584"
+    },
+    {
+      "attention_score": 0.09888365119695663,
+      "residue": "C615"
+    },
+    {
+      "attention_score": 0.06671586632728577,
+      "residue": "K619"
+    },
+    {
+      "attention_score": 0.023213159292936325,
+      "residue": "C620"
+    }
+  ],
+  "pdb_coverage": {
+    "residue_positions": 920
+  }
+}

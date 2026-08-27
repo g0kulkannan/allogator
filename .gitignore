@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+*.egg-info/
+/build/
+/dist/
+/allogator_scores.csv
+/predictions/
+# Large structure inputs are downloaded separately.
+/manuscript/data/structures_multichain/
+# Auxiliary summary emitted by the optional distance-baseline rebuild.
+/manuscript/data/cached_results/Distance/per_protein_metrics.csv

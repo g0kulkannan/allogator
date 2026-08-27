@@ -1,0 +1,21 @@
+Mutation,GPCRdb numbering,Motif,Potency,Efficacy,ESM1b Attention Rank,EVcouplings Rank,Ohm Rank
+N322A,7x49,NPxxY,reduced,reduced,1,184,38
+D130A,3x49,DRY,WT-like,reduced,2,112,20
+L284A,6x46,N/A,WT-like,WT-like,3,117,180
+W286A,6x48,CWxP,N/A,N/A,4,18,137
+P211A,5x50,PIF,N/A,N/A,5,40,128
+D79A,2x50,N/A,reduced,reduced,6,159,4
+Y219A,5x58,N/A,reduced,WT-like,7,165,67
+W109A,3x28,N/A,WT-like,WT-like,8,16,197
+N318A,7x45,N/A,reduced,WT-like,9,56,33
+C285A,6x47,CWxP,reduced,reduced,10,45,102
+A119G,3x38,N/A,WT-like,reduced,11,82,159
+S319A,7x46,N/A,WT-like,WT-like,12,30,20
+I121A,3x40,PIF,reduced,reduced,13,10,208
+E122A,3x41,N/A,WT-like,WT-like,14,13,151
+Y209A,5x48,N/A,reduced,WT-like,15,53,159
+I205A,5x45,N/A,WT-like,WT-like,16,71,192
+F282A,6x44,PIF,reduced,reduced,17,95,166
+C106A,3x25,N/A,N/A,N/A,18,148,173
+R131A,3x50,DRY,WT-like,WT-like,19,213,43
+Y199A,5x39,N/A,reduced,reduced,20,17,227

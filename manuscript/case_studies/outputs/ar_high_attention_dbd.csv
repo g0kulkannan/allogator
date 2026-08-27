@@ -1,0 +1,5 @@
+residue_number,attention_score,amino_acid,clinical_status,plot_color_class,above_attention_percentile_cutoff,in_DNA_binding_domain
+584,0.032163195312,F,clinical_variant,purple,True,True
+615,0.098883651197,C,clinical_variant,purple,True,True
+619,0.0667158663273,K,unknown,gray,True,True
+620,0.0232131592929,C,clinical_variant,purple,True,True

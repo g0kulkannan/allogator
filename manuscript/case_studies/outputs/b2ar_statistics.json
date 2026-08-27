@@ -1,0 +1,120 @@
+{
+  "accession": "P07550",
+  "active_site_residues_1_based": [
+    113,
+    114,
+    117,
+    193,
+    203,
+    207,
+    289,
+    290,
+    293,
+    312,
+    316
+  ],
+  "attention": {
+    "n": 383,
+    "normalised_amplitude": {
+      "spearman_rho": -0.219300844512,
+      "two_sided_p": 1.48701592971e-05
+    },
+    "normalised_logEC50": {
+      "spearman_rho": 0.450241599585,
+      "two_sided_p": 1.62377579901e-20
+    }
+  },
+  "evcouplings": {
+    "n": 255,
+    "normalised_amplitude": {
+      "spearman_rho": -0.0452099860596,
+      "two_sided_p": 0.472284961469
+    },
+    "normalised_logEC50": {
+      "spearman_rho": 0.0745527812896,
+      "two_sided_p": 0.235497912069
+    }
+  },
+  "ohm": {
+    "n": 254,
+    "normalised_amplitude": {
+      "spearman_rho": -0.15344866977,
+      "two_sided_p": 0.0143642742637
+    },
+    "normalised_logEC50": {
+      "spearman_rho": 0.164875475253,
+      "two_sided_p": 0.0084693192568
+    }
+  },
+  "signaling_group_test": {
+    "altered_n": 67,
+    "p": 6.55300433124e-17,
+    "statistic": 3531.0,
+    "test": "two-sided Mann-Whitney U",
+    "wt_like_n": 303
+  },
+  "top20_annotated_allosteric_enrichment": {
+    "background_positive": 69,
+    "background_total": 383,
+    "definition": "pharma_important == 1 OR named allosteric motif",
+    "fold_enrichment": 3.88550724638,
+    "one_sided_hypergeometric_p": 1.84265893575e-07,
+    "test": "one-sided hypergeometric enrichment",
+    "top_n": 20,
+    "top_positive": 14
+  },
+  "top50_quadrant_enrichment": {
+    "definition": {
+      "background_non_wt_like": 99,
+      "background_total": 412,
+      "non_wt_like": "all other quadrants",
+      "test": "one-sided hypergeometric enrichment",
+      "wt_like": "normalised_amplitude >= 0.75 and normalised_logEC50 < 0.87"
+    },
+    "methods": {
+      "esm1b_attention": {
+        "fold_enrichment": 2.5802020202,
+        "non_wt_like_n": 31,
+        "one_sided_hypergeometric_p": 7.87324400687e-10,
+        "top_n": 50,
+        "wt_like_n": 19
+      },
+      "evcouplings": {
+        "fold_enrichment": 1.58141414141,
+        "non_wt_like_n": 19,
+        "one_sided_hypergeometric_p": 0.0133607714174,
+        "top_n": 50,
+        "wt_like_n": 31
+      },
+      "ohm": {
+        "fold_enrichment": 1.41494949495,
+        "non_wt_like_n": 17,
+        "one_sided_hypergeometric_p": 0.0598643489782,
+        "top_n": 50,
+        "wt_like_n": 33
+      }
+    }
+  },
+  "top_attention_residues": [
+    322,
+    130,
+    284,
+    286,
+    211,
+    79,
+    219,
+    109,
+    318,
+    285,
+    119,
+    319,
+    121,
+    122,
+    209,
+    205,
+    282,
+    106,
+    131,
+    199
+  ]
+}

@@ -1,0 +1,414 @@
+residue_number,amino_acid,structural_region,GPCRdb_number,GPCRdb,forms_active_contact,in_network,active_contact_in_network,pharma_important,expression,classification,is_active_site,excluded_active_or_sequence_adjacent,attention_score,evcouplings_score,ohm_ACI,attention_rank_descending
+1,M,N-term,,,,,,,,,False,False,0.0177303627133,,,171
+2,G,N-term,,N-term,no,no,no,0,115.2,bystander,False,False,0.00732758501545,,,293
+3,Q,N-term,,N-term,no,no,no,0,101.2,bystander,False,False,0.0058923009783,,,309
+4,P,N-term,,N-term,no,no,no,0,88.5,bystander,False,False,0.00598232029006,,,306
+5,G,N-term,,N-term,no,no,no,0,112.1,bystander,False,False,0.0056541771628,,,313
+6,N,N-term,,N-term,no,no,no,0,86.7,bystander,False,False,0.00647955294698,,,300
+7,G,N-term,,N-term,no,no,no,0,97.9,bystander,False,False,0.00529337860644,,,320
+8,S,N-term,,N-term,no,no,no,1,59.5,modulator,False,False,0.0053260596469,,,318
+9,A,N-term,,N-term,no,no,no,0,116.1,bystander,False,False,0.00511463452131,,,326
+10,F,N-term,,N-term,no,no,no,0,97.7,bystander,False,False,0.00507784401998,,,330
+11,L,N-term,,N-term,no,no,no,0,94.2,bystander,False,False,0.00470670172945,,,342
+12,L,N-term,,N-term,no,no,no,0,71.9,bystander,False,False,0.00485324999318,,,334
+13,A,N-term,,N-term,no,no,no,0,79.7,bystander,False,False,0.0053377491422,,,317
+14,P,N-term,,N-term,no,no,no,0,111.2,bystander,False,False,0.00536696799099,,,316
+15,N,N-term,,N-term,no,no,no,0,55.6,bystander,False,False,0.00643055932596,,,301
+16,G,N-term,,N-term,no,no,no,0,91.6,bystander,False,False,0.00501115620136,,,331
+17,S,N-term,,N-term,no,no,no,0,70.3,bystander,False,False,0.00492340605706,,,332
+18,H,N-term,,N-term,no,no,no,0,100.7,bystander,False,False,0.00524930516258,,,322
+19,A,N-term,,N-term,no,no,no,0,103.3,bystander,False,False,0.00529144192114,,,321
+20,P,N-term,,N-term,no,no,no,0,100.2,bystander,False,False,0.00530487019569,,,319
+21,D,N-term,,N-term,no,no,no,0,105.5,bystander,False,False,0.00512055819854,,,325
+22,H,N-term,,N-term,no,no,no,0,92.4,bystander,False,False,0.00541913602501,,,315
+23,D,N-term,,N-term,no,no,no,0,89.3,bystander,False,False,0.00599081488326,,,305
+24,V,N-term,,N-term,no,no,no,0,88.4,bystander,False,False,0.00560070062056,,,314
+25,T,N-term,,N-term,no,no,no,0,82.6,bystander,False,False,0.00574479345232,,,312
+26,Q,TM1,1.25x25,1x25,no,no,no,0,110.1,bystander,False,False,0.00606820872054,,,304
+27,E,TM1,1.26x26,1x26,no,no,no,0,78.7,bystander,False,False,0.00624202704057,,,302
+28,R,TM1,1.27x27,1x27,no,no,no,0,93.7,bystander,False,False,0.00675397831947,,,299
+29,D,TM1,1.28x28,1x28,no,no,no,0,82.8,bystander,False,False,0.00691389199346,,0.58,296
+30,E,TM1,1.29x29,1x29,no,no,no,0,84.9,bystander,False,False,0.00739800045267,,0.56,291
+31,V,TM1,1.30x30,1x30,no,no,no,0,93.5,bystander,False,False,0.00721016712487,,0.55,294
+32,W,TM1,1.31x31,1x31,no,no,no,0,72,bystander,False,False,0.00890063308179,,0.59,277
+33,V,TM1,1.32x32,1x32,no,no,no,0,96.6,bystander,False,False,0.0080387769267,-13.3668592625,0.61,285
+34,V,TM1,1.33x33,1x33,no,no,no,0,76.5,bystander,False,False,0.00765840755776,-16.7012614016,0.64,288
+35,G,TM1,1.34x34,1x34,no,no,no,0,104.4,bystander,False,False,0.00801373459399,-12.1541370724,0.64,286
+36,M,TM1,1.35x35,1x35,no,no,no,0,77.3,bystander,False,False,0.0105578796938,-7.36469635069,0.64,262
+37,G,TM1,1.36x36,1x36,no,no,no,0,108.6,bystander,False,False,0.010141434148,-9.31716997693,0.66,268
+38,I,TM1,1.37x37,1x37,no,no,no,0,80.8,bystander,False,False,0.00854262523353,-11.9398672022,0.68,283
+39,V,TM1,1.38x38,1x38,no,no,no,0,77.8,bystander,False,False,0.0095675168559,-8.96228140979,0.68,275
+40,M,TM1,1.39x39,1x39,no,no,no,0,77.9,bystander,False,False,0.0121487947181,-1.67897329259,0.65,235
+41,S,TM1,1.40x40,1x40,no,no,no,0,85.6,bystander,False,False,0.0117221632972,-10.2134540606,0.65,241
+42,L,TM1,1.41x41,1x41,no,no,no,0,96.2,bystander,False,False,0.0109954839572,-11.3198805764,0.64,248
+43,I,TM1,1.42x42,1x42,yes,no,"yes, not in network",0,80.3,passenger,False,False,0.0109151303768,-8.01435075915,0.73,252
+44,V,TM1,1.43x43,1x43,no,no,no,0,83.6,bystander,False,False,0.0130588700995,-8.27434878226,0.7,225
+45,L,TM1,1.44x44,1x44,no,no,no,0,86.1,bystander,False,False,0.0121996803209,-11.5754285171,0.69,233
+46,A,TM1,1.45x45,1x45,no,no,no,0,93.4,bystander,False,False,0.0113491294906,-12.1720281503,0.76,245
+47,I,TM1,1.46x46,1x46,yes,no,"yes, not in network",0,78.9,passenger,False,False,0.0152941830456,-7.00418041552,0.9,200
+48,V,TM1,1.47x47,1x47,no,no,no,0,90.6,bystander,False,False,0.0132008381188,-11.0515914218,0.85,223
+49,F,TM1,1.48x48,1x48,no,no,no,1,90.7,modulator,False,False,0.0117786582559,-9.57656195918,0.83,240
+50,G,TM1,1.49x49,1x49,no,no,no,0,64.6,bystander,False,False,0.0143819162622,-10.1320761136,0.88,211
+51,N,TM1,1.50x50,1x50,yes,no,"yes, not in network",,18.8,,False,False,0.0503977797925,-9.47679892523,0.98,26
+52,V,TM1,1.51x51,1x51,no,no,no,0,103.3,bystander,False,False,0.0118685346097,-9.70535647271,0.91,238
+53,L,TM1,1.52x52,1x52,no,no,no,0,78.8,bystander,False,False,0.011521753855,-9.43713639974,0.9,243
+54,V,TM1,1.53x53,1x53,yes,no,"yes, not in network",0,73.2,passenger,False,False,0.0138316266239,-9.00537754688,0.9,220
+55,I,TM1,1.54x54,1x54,no,no,no,,14.5,,False,False,0.012873372063,-9.0992581536,0.88,227
+56,T,TM1,1.55x55,1x55,no,no,no,0,90.5,bystander,False,False,0.00969993788749,-10.3109856104,0.87,274
+57,A,TM1,1.56x56,1x56,yes,no,"yes, not in network",0,38.2,passenger,False,False,0.0101973153651,-11.3689795806,0.94,267
+58,I,TM1,1.57x57,1x57,no,no,no,1,29.8,modulator,False,False,0.0108404839411,-9.6275704822,1,255
+59,A,TM1,1.58x58,1x58,no,no,no,0,62,bystander,False,False,0.0104845212772,-9.595824432,0.85,263
+60,K,TM1,1.59x59,1x59,no,no,no,1,36.7,modulator,False,False,0.0109759420156,-11.6692813212,0.81,249
+61,F,TM1,1.60x60,1x60,no,no,no,0,59.1,bystander,False,False,0.010746137239,-10.0586592462,0.93,257
+62,E,ICL1,12.48x48,12x48,no,no,no,0,81.2,bystander,False,False,0.0140429669991,-12.5419833465,0.85,217
+63,R,ICL1,12.49x49,12x49,yes,no,"yes, not in network",0,101.7,passenger,False,False,0.012080851011,-10.1106255113,0.74,236
+64,L,ICL1,12.50x50,12x50,yes,no,"yes, not in network",,17,,False,False,0.0108074415475,-13.1658719039,0.93,256
+65,Q,ICL1,12.51x51,12x51,yes,no,"yes, not in network",0,60.9,passenger,False,False,0.0140471542254,-11.7496144166,0.84,216
+66,T,TM2,2.37x37,2x37,yes,no,"yes, not in network",1,27.1,disconnected driver,False,False,0.0118150217459,-10.9189659175,0.84,239
+67,V,TM2,2.38x38,2x38,no,no,no,0,68,bystander,False,False,0.0104198679328,-8.54390278213,0.92,264
+68,T,TM2,2.39x39,2x39,yes,yes,"yes, in network",1,57.9,connected driver,False,False,0.0125631941482,-7.52328297227,0.91,229
+69,N,TM2,2.40x40,2x40,no,no,no,0,62.6,bystander,False,False,0.0177149865776,-10.234352078,0.93,172
+70,Y,TM2,2.41x41,2x41,yes,no,"yes, not in network",0,52.9,passenger,False,False,0.0147898215801,-8.62294373928,0.93,206
+71,F,TM2,2.42x42,2x42,yes,yes,"yes, in network",1,26.9,connected driver,False,False,0.0175821464509,-8.82563088044,0.96,174
+72,I,TM2,2.43x43,2x43,yes,yes,"yes, in network",1,45.7,connected driver,False,False,0.0150089077652,-8.38436582592,0.89,204
+73,T,TM2,2.44x44,2x44,no,no,no,0,98.9,bystander,False,False,0.0144015289843,-6.82596275772,0.93,210
+74,S,TM2,2.45x45,2x45,no,no,no,,85.7,,False,False,0.0183619149029,-9.52672118995,0.86,165
+75,L,TM2,2.46x46,2x46,yes,no,"yes, not in network",0,81,passenger,False,False,0.016867088154,-9.73701561079,0.78,184
+76,A,TM2,2.47x47,2x47,no,no,no,1,31.7,modulator,False,False,0.018368512392,-9.83186650237,0.84,164
+77,C,TM2,2.48x48,2x48,no,no,no,0,107.2,bystander,False,False,0.0159822851419,-9.67911580428,0.84,193
+78,A,TM2,2.49x49,2x49,yes,no,"yes, not in network",1,62.4,disconnected driver,False,False,0.0211500488222,-9.35367033843,0.81,132
+79,D,TM2,2.50x50,2x50,yes,yes,"yes, in network",1,64.7,connected driver,False,False,0.0970824360847,-9.71794178649,0.96,6
+80,L,TM2,2.51x51,2x51,yes,no,"yes, not in network",0,68.9,passenger,False,False,0.0195658542216,-10.3524385272,0.88,144
+81,V,TM2,2.52x52,2x52,no,no,no,0,85.4,bystander,False,False,0.0214221272618,-7.66171912877,0.7,127
+82,M,TM2,2.53x53,2x53,yes,no,"yes, not in network",1,89.4,disconnected driver,False,False,0.0222127363086,1.65222555731,0.75,121
+83,G,TM2,2.54x54,2x54,no,no,no,1,70.8,modulator,False,False,0.04007467255,,0.78,51
+84,L,TM2,2.55x55,2x55,no,no,no,0,89.3,bystander,False,False,0.0220408551395,-8.83713513871,0.64,122
+85,A,TM2,2.56x551,2x551,no,no,no,0,110.6,bystander,False,False,0.02044929564,-6.65084290048,0.55,137
+86,V,TM2,2.57x56,2x56,no,no,no,1,85.5,modulator,False,False,0.0246837120503,2.06649013037,0.48,106
+87,V,TM2,2.58x57,2x57,yes,no,"yes, not in network",,11.2,,False,False,0.0260495021939,-3.35019053106,0.58,98
+88,P,TM2,2.59x58,2x58,no,no,no,,14.3,,False,False,0.0297856722027,-8.21717086192,0.63,81
+89,F,TM2,2.60x59,2x59,no,no,no,0,114.9,bystander,False,False,0.0210089851171,-5.19418304262,0.62,134
+90,G,TM2,2.61x60,2x60,no,no,no,0,114.3,bystander,False,False,0.0277007464319,4.17640823381,0.58,91
+91,A,TM2,2.62x61,2x61,no,no,no,0,117.8,bystander,False,False,0.0172491408885,-6.14219222177,0.66,179
+92,A,TM2,2.63x62,2x62,no,no,no,0,95,bystander,False,False,0.0164599586278,-9.53227753608,0.65,187
+93,H,TM2,2.64x63,2x63,no,no,no,0,90.4,bystander,False,False,0.0248580090702,-3.42138022812,0.67,104
+94,I,TM2,2.65x64,2x64,no,no,no,0,88.9,bystander,False,False,0.0193998888135,-3.2470799959,0.57,147
+95,L,TM2,2.66x65,2x65,no,no,no,0,68.2,bystander,False,False,0.0163424536586,-7.8350938334,0.54,188
+96,M,TM2,2.67x66,2x66,no,no,no,0,88.8,bystander,False,False,0.0183952953666,-8.74804852196,0.57,163
+97,K,TM2,2.68x67,ECL1,no,no,no,0,67.1,bystander,False,False,0.0235127527267,-8.61835630778,0.56,111
+98,M,ECL1,23.49x49,23x49,no,no,no,0,108.5,bystander,False,False,0.0177052691579,-8.2041416758,0.62,173
+99,W,ECL1,23.50x50,23x50,no,no,no,,9.2,,False,False,0.0292168539017,-8.09526461256,0.7,84
+100,T,ECL1,23.51x51,23x51,no,no,no,0,119.9,bystander,False,False,0.0172582920641,-7.21268735661,0.58,178
+101,F,ECL1,23.52x52,23x52,no,no,no,1,50.9,modulator,False,False,0.0187784191221,-7.68044538504,0.69,156
+102,G,TM3,3.21x21,3x21,no,no,no,1,31.3,modulator,False,False,0.0323965996504,-10.0090788147,0.69,74
+103,N,TM3,3.22x22,3x22,no,no,no,0,123.4,bystander,False,False,0.02959552221,-8.45884044362,0.67,82
+104,F,TM3,3.23x23,3x23,no,no,no,0,115.4,bystander,False,False,0.0234049409628,-9.81704336967,0.64,113
+105,W,TM3,3.24x24,3x24,no,no,no,0,97.7,bystander,False,False,0.0406779497862,-8.07645972907,0.63,47
+106,C,TM3,3.25x25,3x25,no,no,no,,15.7,,False,False,0.052976205945,-9.53780337408,0.64,18
+107,E,TM3,3.26x26,3x26,no,no,no,1,68.8,modulator,False,False,0.0359015651047,-6.87877251417,0.61,63
+108,F,TM3,3.27x27,3x27,no,no,no,0,61.9,bystander,False,False,0.0304679442197,-5.99801669363,0.62,79
+109,W,TM3,3.28x28,3x28,no,no,no,0,69.9,bystander,False,False,0.0776957422495,-1.86230096805,0.6,8
+110,T,TM3,3.29x29,3x29,no,no,no,1,106.1,modulator,False,False,0.0484821945429,1.76773173403,0.54,31
+111,S,TM3,3.30x30,3x30,no,no,no,0,110.2,bystander,False,False,0.0435066185892,-3.5126428602,0.69,43
+112,I,TM3,3.31x31,3x31,no,no,no,0,115.7,bystander,False,True,,,,
+113,D,TM3,3.32x32,3x32,no,no,no,1,128,modulator,True,True,,,,
+114,V,TM3,3.33x33,3x33,no,no,no,1,115.8,modulator,True,True,,,,
+115,L,TM3,3.34x34,3x34,no,no,no,0,107.8,bystander,False,True,,,,
+116,C,TM3,3.35x35,3x35,no,no,no,1,107.1,modulator,False,True,,,,
+117,V,TM3,3.36x36,3x36,yes,no,"yes, not in network",1,77.5,disconnected driver,True,True,,,,
+118,T,TM3,3.37x37,3x37,no,no,no,1,55.9,modulator,False,True,,,,
+119,A,TM3,3.38x38,3x38,yes,no,"yes, not in network",1,67.3,disconnected driver,False,False,0.0568005442619,-7.65813102351,0.66,11
+120,S,TM3,3.39x39,3x39,yes,yes,"yes, in network",1,78.3,connected driver,False,False,0.0519263185561,-8.42275500457,0.62,22
+121,I,TM3,3.40x40,3x40,yes,yes,"yes, in network",1,72.1,connected driver,False,False,0.0543097145855,0.30994285912,0.58,13
+122,E,TM3,3.41x41,3x41,yes,no,"yes, not in network",0,102.4,passenger,False,False,0.0538747496903,-1.60015368394,0.67,14
+123,T,TM3,3.42x42,3x42,yes,no,"yes, not in network",1,34.1,disconnected driver,False,False,0.0478643029928,-6.51977818219,0.81,33
+124,L,TM3,3.43x43,3x43,yes,yes,"yes, in network",1,27.8,connected driver,False,False,0.0490460991859,-7.59016538133,0.7,29
+125,C,TM3,3.44x44,3x44,no,no,no,1,113.1,modulator,False,False,0.034111622721,-6.62880342005,0.78,69
+126,V,TM3,3.45x45,3x45,no,no,no,0,90.2,bystander,False,False,0.0324110761285,-8.26049836644,0.83,73
+127,I,TM3,3.46x46,3x46,yes,yes,"yes, in network",1,77.2,connected driver,False,False,0.0353015698493,-5.97657302684,0.84,66
+128,A,TM3,3.47x47,3x47,no,no,no,0,67.3,bystander,False,False,0.0253562312573,-5.65188019162,0.83,102
+129,V,TM3,3.48x48,3x48,yes,no,"yes, not in network",0,80.3,passenger,False,False,0.0201238449663,-10.1268462121,0.84,140
+130,D,TM3,3.49x49,3x49,yes,yes,"yes, in network",1,57.9,connected driver,False,False,0.149311110377,-8.45806360078,0.9,2
+131,R,TM3,3.50x50,3x50,yes,no,"yes, not in network",0,52.9,passenger,False,False,0.0529072247446,-11.5676388268,0.85,19
+132,Y,TM3,3.51x51,3x51,no,no,no,1,58.8,modulator,False,False,0.0298472382128,-11.4609036968,0.89,80
+133,F,TM3,3.52x52,3x52,yes,no,"yes, not in network",0,55.1,passenger,False,False,0.0258746165782,-9.24661728761,0.87,99
+134,A,TM3,3.53x53,3x53,yes,no,"yes, not in network",0,88.1,passenger,False,False,0.0293974876404,-9.34204463218,0.87,83
+135,I,TM3,3.54x54,3x54,yes,no,"yes, not in network",1,73.9,disconnected driver,False,False,0.0347831808031,-11.4950033301,0.83,67
+136,T,TM3,3.55x55,3x55,yes,no,"yes, not in network",0,90.4,passenger,False,False,0.020344093442,-9.2070702359,0.8,139
+137,S,TM3,3.56x56,3x56,yes,no,"yes, not in network",0,69.9,passenger,False,False,0.0215024575591,-11.5322163692,0.76,124
+138,P,ICL2,34.50x50,34x50,yes,no,"yes, not in network",1,82.6,disconnected driver,False,False,0.0236796624959,-11.7457613245,0.77,110
+139,F,ICL2,34.51x51,34x51,no,no,no,1,105.6,modulator,False,False,0.0228828787804,-9.19996051091,0.7,115
+140,K,ICL2,34.52x52,34x52,no,no,no,0,94.3,bystander,False,False,0.0199445001781,-11.8290664311,0.71,143
+141,Y,ICL2,34.53x53,34x53,yes,no,"yes, not in network",1,86.4,disconnected driver,False,False,0.0213420391083,-16.7918297358,0.79,128
+142,Q,ICL2,34.54x54,34x54,no,no,no,0,90,bystander,False,False,0.019450712949,-13.9809530227,0.7,145
+143,S,ICL2,34.55x55,34x55,no,no,no,0,112.1,bystander,False,False,0.0192888490856,-10.8715855999,0.68,152
+144,L,ICL2,34.56x56,34x56,yes,no,"yes, not in network",0,105.7,passenger,False,False,0.0173260159791,-9.64715260161,0.73,177
+145,L,ICL2,34.57x57,34x57,yes,no,"yes, not in network",0,85.9,passenger,False,False,0.0144125837833,-10.456717858,0.86,209
+146,T,TM4,4.38x38,4x38,yes,no,"yes, not in network",1,58.8,disconnected driver,False,False,0.0178158376366,-10.9801902246,0.81,168
+147,K,TM4,4.39x39,4x39,no,no,no,0,49.7,bystander,False,False,0.0160532128066,-10.4925376191,0.82,192
+148,N,TM4,4.40x40,4x40,no,no,no,0,91.3,bystander,False,False,0.0146078169346,-11.4364634499,0.77,208
+149,K,TM4,4.41x41,4x41,no,no,no,0,95.9,bystander,False,False,0.0177598092705,-12.0062479086,0.81,170
+150,A,TM4,4.42x42,4x42,yes,yes,"yes, in network",1,77.2,connected driver,False,False,0.0186295062304,-12.7477368768,0.87,160
+151,R,TM4,4.43x43,4x43,no,no,no,0,92.2,bystander,False,False,0.0158016607165,-11.3507670917,0.73,194
+152,V,TM4,4.44x44,4x44,no,no,no,0,109.1,bystander,False,False,0.0139873884618,-11.1686839837,0.71,219
+153,I,TM4,4.45x45,4x45,yes,no,"yes, not in network",0,104.4,passenger,False,False,0.0153121044859,-12.4244843918,0.75,199
+154,I,TM4,4.46x46,4x46,no,no,no,0,84.7,bystander,False,False,0.0170708913356,-9.82023013907,0.77,182
+155,L,TM4,4.47x47,4x47,no,no,no,0,119.9,bystander,False,False,0.0152713786811,-10.4686046445,0.7,201
+156,M,TM4,4.48x48,4x48,no,no,no,0,94.7,bystander,False,False,0.0177726503462,-10.936547293,0.68,169
+157,V,TM4,4.49x49,4x49,no,no,no,0,76.4,bystander,False,False,0.0209555253386,-10.6027964394,0.69,135
+158,W,TM4,4.50x50,4x50,no,no,no,1,40.6,modulator,False,False,0.0414697043598,-12.0348091593,0.7,44
+159,I,TM4,4.51x51,4x51,no,no,no,0,84.8,bystander,False,False,0.0194312836975,-12.3545270608,0.7,146
+160,V,TM4,4.52x52,4x52,no,no,no,0,93.2,bystander,False,False,0.0211957413703,-3.81372653806,0.63,130
+161,S,TM4,4.53x53,4x53,no,no,no,1,116.1,modulator,False,False,0.0234236381948,-7.84074581716,0.67,112
+162,G,TM4,4.54x54,4x54,no,no,no,0,113.9,bystander,False,False,0.0210932027549,-9.86511677689,0.7,133
+163,L,TM4,4.55x55,4x55,no,no,no,0,98.4,bystander,False,False,0.0205553844571,-9.01692031803,0.66,136
+164,T,TM4,4.56x56,4x56,yes,no,"yes, not in network",0,119.6,passenger,False,False,0.0224995333701,-2.65253600589,0.57,119
+165,S,TM4,4.57x57,4x57,no,no,no,0,135.7,bystander,False,False,0.026411967352,1.57238025337,0.54,94
+166,F,TM4,4.58x58,4x58,no,no,no,1,92.2,modulator,False,False,0.0212577357888,-9.62762388199,0.63,129
+167,L,TM4,4.59x59,4x59,no,no,no,0,98.1,bystander,False,False,0.0187337566167,-8.61170293785,0.66,157
+168,P,TM4,4.60x60,4x60,no,no,no,,11.6,,False,False,0.0285414997488,-0.867018939231,0.61,88
+169,I,TM4,4.61x61,4x61,no,no,no,1,54.6,modulator,False,False,0.0201090779155,-7.61399051012,0.7,141
+170,Q,TM4,4.62x62,4x62,no,no,no,0,66.2,bystander,False,False,0.0236969012767,,0.71,109
+171,M,TM4,4.63x63,4x63,no,no,no,0,93.6,bystander,False,False,0.0189658850431,-8.06923565201,0.73,154
+172,H,TM4,4.64x64,4x64,no,no,no,0,82.6,bystander,False,False,0.0261431839317,-5.61806506971,0.68,96
+173,W,ECL2,,ECL2,no,no,no,1,67.9,modulator,False,False,0.0256946478039,-8.12905668932,0.62,101
+174,Y,ECL2,,ECL2,no,no,no,0,93.1,bystander,False,False,0.0186449345201,-8.10529121362,0.59,159
+175,R,ECL2,,ECL2,no,no,no,0,71.5,bystander,False,False,0.0190576203167,-7.52202370022,0.62,153
+176,A,ECL2,,ECL2,no,no,no,0,101.4,bystander,False,False,0.0160638019443,-9.7144335953,0.49,191
+177,T,ECL2,,ECL2,no,no,no,0,103.6,bystander,False,False,0.0142865804955,-8.96796124063,0.47,215
+178,H,ECL2,,ECL2,no,no,no,0,86.4,bystander,False,False,0.0175383184105,-8.34962300878,0.45,175
+179,Q,ECL2,,ECL2,no,no,no,0,98.6,bystander,False,False,0.0166319459677,-13.2309244263,0.52,186
+180,E,ECL2,,ECL2,no,no,no,0,72.6,bystander,False,False,0.0171081926674,-18.2864442271,0.51,181
+181,A,ECL2,,ECL2,no,no,no,0,76.6,bystander,False,False,0.017023216933,-16.587709066,0.49,183
+182,I,ECL2,,ECL2,no,no,no,0,85.6,bystander,False,False,0.0174596365541,-15.2735523901,0.55,176
+183,N,ECL2,,ECL2,no,no,no,0,97.3,bystander,False,False,0.0193934738636,-13.86737024,0.59,148
+184,C,ECL2,,ECL2,no,no,no,1,27.9,modulator,False,False,0.0358579084277,-15.9249053298,0.59,64
+185,Y,ECL2,,ECL2,no,no,no,1,58.9,modulator,False,False,0.0193354487419,-11.9141434338,0.52,150
+186,A,ECL2,,ECL2,no,no,no,0,109.4,bystander,False,False,0.022702768445,-14.0815203701,0.56,116
+187,N,ECL2,,ECL2,no,no,no,0,91.4,bystander,False,False,0.028476504609,-15.5204162399,0.63,89
+188,E,ECL2,,ECL2,no,no,no,0,99.3,bystander,False,False,0.0257069077343,-11.2915691633,0.68,100
+189,T,ECL2,,ECL2,no,no,no,0,104.2,bystander,False,False,0.0240836851299,-8.55862557232,0.66,107
+190,C,ECL2,,ECL2,no,no,no,,23.5,,False,False,0.0480276905,-5.45792895079,0.59,32
+191,C,ECL2,45.50x50,45x50,no,no,no,,14,,False,False,0.0489186160266,-3.32469507097,0.52,30
+192,D,ECL2,45.51x51,45x51,no,no,no,0,71.7,bystander,False,True,,,,
+193,F,ECL2,45.52x52,45x52,no,no,no,1,83,modulator,True,True,,,,
+194,F,ECL2,,ECL2,no,no,no,0,95.4,bystander,False,True,,,,
+195,T,ECL2,,ECL2,no,no,no,0,94.7,bystander,False,False,0.0392859317362,-3.83314942821,0.42,53
+196,N,TM5,5.35x36,5x36,no,no,no,1,64.8,modulator,False,False,0.0474611073732,-1.81287143517,0.53,34
+197,Q,TM5,5.36x37,5x37,no,no,no,0,92.3,bystander,False,False,0.0404949560761,-5.95904706033,0.6,48
+198,A,TM5,5.37x38,5x38,no,no,no,0,145.6,bystander,False,False,0.0362313091755,-7.11504445009,0.52,61
+199,Y,TM5,5.38x39,5x39,yes,no,"yes, not in network",1,34.7,disconnected driver,False,False,0.0522804521024,-2.20639383888,0.54,20
+200,A,TM5,5.39x40,5x40,yes,no,"yes, not in network",0,139.6,passenger,False,False,0.0447245761752,2.1968700467,0.51,40
+201,I,TM5,5.40x41,5x41,yes,no,"yes, not in network",0,119.6,passenger,False,False,0.0388187244534,-5.15391469025,0.52,54
+202,A,TM5,5.41x42,5x42,no,no,no,0,124.9,bystander,False,True,,,,
+203,S,TM5,5.42x43,5x43,no,no,no,1,113.7,modulator,True,True,,,,
+204,S,TM5,5.43x44,5x44,yes,yes,"yes, in network",1,87.4,connected driver,False,True,,,,
+205,I,TM5,5.44x45,5x45,no,no,no,0,115.5,bystander,False,False,0.0533090010285,-7.02810553836,0.61,16
+206,V,TM5,5.45x46,5x46,yes,no,"yes, not in network",0,94.6,passenger,False,True,,,,
+207,S,TM5,5.46x461,5x461,yes,yes,"yes, in network",1,132.7,connected driver,True,True,,,,
+208,F,TM5,5.47x47,5x47,yes,yes,"yes, in network",1,70.4,connected driver,False,True,,,,
+209,Y,TM5,5.48x48,5x48,no,no,no,1,117.6,modulator,False,False,0.0535096600652,-6.46177249968,0.66,15
+210,V,TM5,5.49x49,5x49,no,no,no,0,125.7,bystander,False,False,0.046167742461,-9.58513635459,0.69,37
+211,P,TM5,5.50x50,5x50,no,no,no,,12.7,,False,False,0.112788714468,-5.62439879297,0.7,5
+212,L,TM5,5.51x51,5x51,yes,no,"yes, not in network",0,125.1,passenger,False,False,0.0401369296014,-6.98600273503,0.72,50
+213,V,TM5,5.52x52,5x52,no,no,no,0,149.8,bystander,False,False,0.039808511734,-9.15277824376,0.68,52
+214,I,TM5,5.53x53,5x53,yes,no,"yes, not in network",1,107.6,disconnected driver,False,False,0.0514720380306,-9.67898642654,0.77,23
+215,M,TM5,5.54x54,5x54,yes,yes,"yes, in network",1,151.3,connected driver,False,False,0.0440236255527,-8.32923599252,0.79,42
+216,V,TM5,5.55x55,5x55,yes,no,"yes, not in network",0,132,passenger,False,False,0.0287273563445,-7.656259413,0.71,87
+217,F,TM5,5.56x56,5x56,no,no,no,0,121.9,bystander,False,False,0.0250446293503,-9.5030924853,0.76,103
+218,V,TM5,5.57x57,5x57,no,no,no,0,105.2,bystander,False,False,0.0246854647994,-9.42081438342,0.87,105
+219,Y,TM5,5.58x58,5x58,yes,no,"yes, not in network",1,106.2,disconnected driver,False,False,0.0835530757904,-9.85425936576,0.8,7
+220,S,TM5,5.59x59,5x59,no,no,no,0,90.9,bystander,False,False,0.0225740317255,-10.5574418493,0.74,118
+221,R,TM5,5.60x60,5x60,yes,no,"yes, not in network",1,89.9,disconnected driver,False,False,0.023325799033,-10.1824793919,0.86,114
+222,V,TM5,5.61x61,5x61,no,no,no,1,81.6,modulator,False,False,0.0237031430006,-7.80968362554,0.8,108
+223,F,TM5,5.62x62,5x62,yes,no,"yes, not in network",0,68.8,passenger,False,False,0.0204279907048,-8.29742852779,0.79,138
+224,Q,TM5,5.63x63,5x63,no,no,no,0,76.3,bystander,False,False,0.0185421779752,-10.3554490552,0.8,161
+225,E,TM5,5.64x64,5x64,no,no,no,0,78.6,bystander,False,False,0.0193164534867,-11.1854019162,0.79,151
+226,A,TM5,5.65x65,5x65,no,no,no,1,51.1,modulator,False,False,0.022237168625,-10.939839636,0.8,120
+227,K,TM5,5.66x66,5x66,no,no,no,0,73.8,bystander,False,False,0.020079318434,-10.1545609123,0.71,142
+228,R,TM5,5.67x67,5x67,no,no,no,0,82.3,bystander,False,False,0.0156773235649,-11.5267994029,0.72,196
+229,Q,TM5,5.68x68,5x68,no,no,no,0,83.3,bystander,False,False,0.0166743285954,-10.0114843831,0.73,185
+230,L,TM5,5.69x69,5x69,yes,no,"yes, not in network",0,90.8,passenger,False,False,0.0160665884614,-9.01099590891,0.61,190
+231,Q,TM5,5.70x70,5x70,no,no,no,0,80.1,bystander,False,False,0.0140051543713,-10.1659149393,0.52,218
+232,K,TM5,5.71x71,5x71,no,no,no,0,85.4,bystander,False,False,0.0156975239515,-9.85365449637,,195
+233,I,TM5,5.72x72,5x72,no,no,no,1,92.9,modulator,False,False,0.0152500392869,-10.409532455,,202
+234,D,TM5,5.73x73,5x73,no,no,no,0,89.1,bystander,False,False,0.0148781016469,-7.93238573249,,205
+235,K,TM5,5.74x74,5x74,no,no,no,0,74.7,bystander,False,False,0.0123403472826,-9.8664798111,0.44,232
+236,S,TM5,5.75x75,5x75,no,no,no,0,75.1,bystander,False,False,0.0124306073412,-12.589030305,,231
+237,E,TM5,5.76x76,5x76,no,no,no,0,72.5,bystander,False,False,0.0121895968914,-14.814063979,,234
+238,G,ICL3,,ICL3,no,no,no,0,74.3,bystander,False,False,0.0107452496886,-16.1685611348,,258
+239,R,ICL3,,ICL3,no,no,no,0,75.8,bystander,False,False,0.0112089822069,,,247
+240,F,ICL3,,ICL3,no,no,no,0,87.8,bystander,False,False,0.0107096331194,,,259
+241,H,ICL3,,ICL3,no,no,no,0,81.8,bystander,False,False,0.0109089044854,,,253
+242,V,ICL3,,ICL3,no,no,no,0,57.6,bystander,False,False,0.0103836217895,,,265
+243,Q,ICL3,,ICL3,no,no,no,0,88.7,bystander,False,False,0.0107018519193,,,260
+244,N,ICL3,,ICL3,no,no,no,0,82.3,bystander,False,False,0.010957014747,,,251
+245,L,ICL3,,ICL3,no,no,no,0,79.8,bystander,False,False,0.00873987842351,,,281
+246,S,ICL3,,ICL3,no,no,no,0,102.8,bystander,False,False,0.0108794393018,,,254
+247,Q,ICL3,,ICL3,no,no,no,0,93.4,bystander,False,False,0.00995896290988,,,269
+248,V,ICL3,,ICL3,no,no,no,0,99.5,bystander,False,False,0.00811804737896,,,284
+249,E,ICL3,,ICL3,no,no,no,0,93.7,bystander,False,False,0.00983288604766,,,273
+250,Q,ICL3,,ICL3,no,no,no,0,99.4,bystander,False,False,0.00860878545791,,,282
+251,D,ICL3,,ICL3,no,no,no,0,101.9,bystander,False,False,0.0098396781832,,,272
+252,G,ICL3,,ICL3,no,no,no,0,92.1,bystander,False,False,0.0089326640591,,,276
+253,R,ICL3,,ICL3,no,no,no,0,111.3,bystander,False,False,0.00986271072179,,,271
+254,T,ICL3,,ICL3,no,no,no,0,73.8,bystander,False,False,0.00889620743692,,,278
+255,G,ICL3,,ICL3,no,no,no,0,107.8,bystander,False,False,0.0099321147427,,,270
+256,H,ICL3,,ICL3,no,no,no,0,92,bystander,False,False,0.0112404618412,,,246
+257,G,ICL3,,ICL3,no,no,no,0,85.5,bystander,False,False,0.0113849779591,,,244
+258,L,ICL3,,ICL3,no,no,no,0,93.2,bystander,False,False,0.0106158144772,,,261
+259,R,ICL3,,ICL3,no,no,no,0,99.4,bystander,False,False,0.0124402604997,,,230
+260,R,ICL3,,ICL3,no,no,no,0,115.7,bystander,False,False,0.0128383366391,,,228
+261,S,ICL3,,ICL3,no,no,no,0,105.8,bystander,False,False,0.0129045955837,,,226
+262,S,TM6,6.24x24,6x24,no,no,no,0,103.4,bystander,False,False,0.0143057834357,,,214
+263,K,TM6,6.25x25,6x25,no,no,no,0,116.9,bystander,False,False,0.0155813805759,,,197
+264,F,TM6,6.26x26,6x26,no,no,no,0,79,bystander,False,False,0.0147347366437,,0.47,207
+265,C,TM6,6.27x27,6x27,no,no,no,0,77.7,bystander,False,False,0.0181799568236,,0.56,166
+266,L,TM6,6.28x28,6x28,no,no,no,0,102,bystander,False,False,0.0143766133115,-16.3694487123,0.58,212
+267,K,TM6,6.29x29,6x29,no,no,no,0,92.3,bystander,False,False,0.0171438530087,-11.9188380702,0.75,180
+268,E,TM6,6.30x30,6x30,yes,no,"yes, not in network",1,67.8,disconnected driver,False,False,0.0219185631722,-6.63688766506,0.73,123
+269,H,TM6,6.31x31,6x31,no,no,no,0,88.9,bystander,False,False,0.0188941694796,-9.28062270451,0.67,155
+270,K,TM6,6.32x32,6x32,no,no,no,0,93,bystander,False,False,0.0181297305971,-8.31409643202,0.73,167
+271,A,TM6,6.33x33,6x33,no,no,no,0,92.9,bystander,False,False,0.0214869845659,-6.59794778739,0.76,125
+272,L,TM6,6.34x34,6x34,no,no,no,0,83.1,bystander,False,False,0.0211865957826,-6.91874636907,0.71,131
+273,K,TM6,6.35x35,6x35,no,no,no,1,92.1,modulator,False,False,0.0261108838022,-9.09350200431,0.67,97
+274,T,TM6,6.36x36,6x36,no,no,no,0,82.3,bystander,False,False,0.0226983428001,-7.82855102301,0.74,117
+275,L,TM6,6.37x37,6x37,yes,no,"yes, not in network",1,87.8,disconnected driver,False,False,0.0261594355106,-5.60568654988,0.73,95
+276,G,TM6,6.38x38,6x38,no,no,no,0,89.6,bystander,False,False,0.0386350229383,-6.54958560916,0.72,55
+277,I,TM6,6.39x39,6x39,no,no,no,0,76,bystander,False,False,0.026470547542,-7.82729407148,0.66,93
+278,I,TM6,6.40x40,6x40,yes,no,"yes, not in network",0,68.8,passenger,False,False,0.0334687829018,-8.3394195108,0.74,71
+279,M,TM6,6.41x41,6x41,yes,no,"yes, not in network",1,84.4,disconnected driver,False,False,0.0402129255235,-6.36461030492,0.72,49
+280,G,TM6,6.42x42,6x42,no,no,no,1,91.9,modulator,False,False,0.0326264835894,-9.17284930601,0.72,72
+281,T,TM6,6.43x43,6x43,no,no,no,0,95,bystander,False,False,0.0381063595414,-6.57307678775,0.71,56
+282,F,TM6,6.44x44,6x44,yes,yes,"yes, in network",1,67.4,connected driver,False,False,0.053153142333,-8.08177940702,0.65,17
+283,T,TM6,6.45x45,6x45,no,no,no,0,90.9,bystander,False,False,0.0446831062436,-4.72047890786,0.66,41
+284,L,TM6,6.46x46,6x46,yes,no,"yes, not in network",0,88.3,passenger,False,False,0.12724621594,-8.60806006329,0.63,3
+285,C,TM6,6.47x47,6x47,yes,yes,"yes, in network",1,78.2,connected driver,False,False,0.0622340291739,-5.90459807577,0.73,10
+286,W,TM6,6.48x48,6x48,yes,no,"yes, not in network",,10.1,,False,False,0.12329672277,-2.23104655196,0.69,4
+287,L,TM6,6.49x49,6x49,no,no,no,1,97.3,modulator,False,False,0.0521804615855,-3.64133496049,0.63,21
+288,P,TM6,6.50x50,6x50,no,no,no,,16.3,,False,True,,,,
+289,F,TM6,6.51x51,6x51,no,no,no,1,67.8,modulator,True,True,,,,
+290,F,TM6,6.52x52,6x52,yes,yes,"yes, in network",1,109.8,connected driver,True,True,,,,
+291,I,TM6,6.53x53,6x53,no,no,no,,1,,False,True,,,,
+292,V,TM6,6.54x54,6x54,no,no,no,0,94.3,bystander,False,True,,,,
+293,N,TM6,6.55x55,6x55,yes,yes,"yes, in network",1,70.4,connected driver,True,True,,,,
+294,I,TM6,6.56x56,6x56,yes,no,"yes, not in network",0,70.2,passenger,False,True,,,,
+295,V,TM6,6.57x57,6x57,yes,no,"yes, not in network",0,55.3,passenger,False,False,0.0471791327,-5.8361975292,0.66,35
+296,H,TM6,6.58x58,6x58,no,no,no,0,78.5,bystander,False,False,0.0511636063457,0.6527822367,0.57,25
+297,V,TM6,6.59x59,6x59,no,no,no,0,97.7,bystander,False,False,0.0363062024117,1.16050234192,0.6,60
+298,I,TM6,6.60x60,6x60,no,no,no,0,68.4,bystander,False,False,0.0318872965872,-6.24350327788,0.59,76
+299,Q,TM6,6.61x61,6x61,no,no,no,0,109.7,bystander,False,False,0.0342505425215,-5.04075040175,0.54,68
+300,D,ECL3,,ECL3,no,no,no,0,96.7,bystander,False,False,0.0353742241859,-4.92571369251,0.48,65
+301,N,ECL3,,ECL3,no,no,no,0,63.9,bystander,False,False,0.0321333631873,-8.18968270984,0.53,75
+302,L,ECL3,,ECL3,no,no,no,0,102.9,bystander,False,False,0.0292139369994,-8.54952559543,0.51,85
+303,I,ECL3,,ECL3,yes,no,"yes, not in network",0,50.7,passenger,False,False,0.0274360831827,-7.7409108596,0.6,92
+304,R,TM7,7.31x30,7x30,no,no,no,0,85.9,bystander,False,False,0.0368115566671,-5.37491340379,0.55,58
+305,K,TM7,7.32x31,7x31,no,no,no,0,66.8,bystander,False,False,0.0363578125834,-4.1492296198,0.47,59
+306,E,TM7,7.33x32,7x32,no,no,no,,22.7,,False,False,0.0314003750682,-6.8726771831,0.56,77
+307,V,TM7,7.34x33,7x33,no,no,no,0,86.9,bystander,False,False,0.0309654679149,-5.71909477072,0.53,78
+308,Y,TM7,7.35x34,7x34,no,no,no,1,92,modulator,False,False,0.0412527695298,7.07116532256,0.53,45
+309,I,TM7,7.36x35,7x35,no,no,no,1,93,modulator,False,False,0.0370680727065,-0.727152455508,0.46,57
+310,L,TM7,7.37x36,7x36,no,no,no,0,89.8,bystander,False,False,0.0336075648665,-7.210143399,0.54,70
+311,L,TM7,7.38x37,7x37,no,no,no,0,87.8,bystander,False,True,,,,
+312,N,TM7,7.39x38,7x38,no,no,no,1,46.9,modulator,True,True,,,,
+313,W,TM7,7.40x39,7x39,yes,no,"yes, not in network",1,28.8,disconnected driver,False,True,,,,
+314,I,TM7,7.41x40,7x40,yes,no,"yes, not in network",0,110.4,passenger,False,False,0.0496547855437,-6.30561403794,0.65,28
+315,G,TM7,7.42x41,7x41,yes,yes,"yes, in network",1,27.9,connected driver,False,True,,,,
+316,Y,TM7,7.43x42,7x42,yes,no,"yes, not in network",,19,,True,True,,,,
+317,V,TM7,7.44x43,7x43,no,no,no,0,91.5,bystander,False,True,,,,
+318,N,TM7,7.45x45,7x45,yes,yes,"yes, in network",1,86.7,connected driver,False,False,0.0658906847239,-6.52474670271,0.87,9
+319,S,TM7,7.46x46,7x46,no,no,no,0,93.9,bystander,False,False,0.0554136708379,-4.60950746601,0.9,12
+320,G,TM7,7.47x47,7x47,no,no,no,0,90,bystander,False,False,0.0465346761048,-5.62650674844,0.89,36
+321,F,TM7,7.48x48,7x48,no,no,no,0,78.8,bystander,False,False,0.0512821041048,-6.47185881857,0.78,24
+322,N,TM7,7.49x49,7x49,yes,yes,"yes, in network",1,104.8,connected driver,False,False,0.204975545406,-10.4143640215,0.86,1
+323,P,TM7,7.50x50,7x50,no,no,no,1,83.8,modulator,False,False,0.0457579232752,-10.4292563346,0.8,38
+324,L,TM7,7.51x51,7x51,no,no,no,0,79.2,bystander,False,False,0.0408820174634,-8.36295071434,0.72,46
+325,I,TM7,7.52x52,7x52,no,no,no,1,58.4,modulator,False,False,0.0455064624548,-6.8658185662,0.78,39
+326,Y,TM7,7.53x53,7x53,yes,yes,"yes, in network",1,91.6,connected driver,False,False,0.0499710068107,-10.7213747082,0.74,27
+327,C,TM7,7.54x54,7x54,yes,no,"yes, not in network",0,89.4,passenger,False,False,0.0360579006374,-4.02042016595,0.76,62
+328,R,TM7,7.55x55,7x55,no,no,no,0,98.4,bystander,False,False,0.028077531606,-6.55050471309,0.72,90
+329,S,TM7,8.47x47,8x47,no,no,no,0,83.9,bystander,False,False,0.0291841849685,-7.13669413472,0.85,86
+330,P,H8,8.48x48,8x48,no,no,no,0,87.3,bystander,False,False,0.0187259819359,-8.91204559629,0.84,158
+331,D,H8,8.49x49,8x49,no,no,no,0,68.7,bystander,False,False,0.021429779008,-9.01799618738,0.9,126
+332,F,H8,8.50x50,8x50,yes,yes,"yes, in network",1,45.4,connected driver,False,False,0.0193796884269,-10.267472131,0.92,149
+333,R,H8,8.51x51,8x51,no,no,no,0,91.1,bystander,False,False,0.0184609089047,-12.1373232699,0.83,162
+334,I,H8,8.52x52,8x52,no,no,no,0,98,bystander,False,False,0.015238661319,-11.408268362,0.91,203
+335,A,H8,8.53x53,8x53,no,no,no,0,64.5,bystander,False,False,0.0153816808015,-10.5243639719,1,198
+336,F,H8,8.54x54,8x54,yes,no,"yes, not in network",0,63.3,passenger,False,False,0.0160967428237,-10.4429114975,0.91,189
+337,Q,H8,8.55x55,8x55,no,no,no,0,81.4,bystander,False,False,0.0136489458382,-12.4403451477,0.77,222
+338,E,H8,8.56x56,8x56,no,no,no,0,66.7,bystander,False,False,0.0143428826705,-10.4587782513,0.86,213
+339,L,H8,8.57x57,8x57,no,no,no,0,50.3,bystander,False,False,0.0131082180887,-13.1520778829,0.9,224
+340,L,H8,8.58x58,8x58,no,no,no,0,59.8,bystander,False,False,0.0120508158579,-13.1953695679,0.79,237
+341,C,H8,8.59x59,8x59,no,no,no,0,76.8,bystander,False,False,0.0137477591634,-14.0568829186,0.72,221
+342,L,H8,,C-term,no,no,no,0,88.8,bystander,False,False,0.0109679996967,-14.2049807548,0.64,250
+343,R,C-term,,C-term,no,no,no,0,72.5,bystander,False,False,0.0115442825481,-15.0906966469,,242
+344,R,C-term,,C-term,no,no,no,0,72.9,bystander,False,False,0.0102401301265,-16.5939735353,,266
+345,S,C-term,,C-term,no,no,no,0,109.6,bystander,False,False,0.00877255015075,-17.707908718,,280
+346,S,C-term,,C-term,no,no,no,0,96.9,bystander,False,False,0.00883704144508,,,279
+347,L,C-term,,C-term,no,no,no,0,109.9,bystander,False,False,0.00737675093114,,,292
+348,K,C-term,,C-term,no,no,no,0,93.1,bystander,False,False,0.00800027977675,,,287
+349,A,C-term,,C-term,no,no,no,0,78.3,bystander,False,False,0.00740213319659,,,290
+350,Y,C-term,,C-term,no,no,no,0,73.1,bystander,False,False,0.00740908412263,,,289
+351,G,C-term,,C-term,no,no,no,0,86,bystander,False,False,0.00703353388235,,,295
+352,N,C-term,,C-term,no,no,no,0,93,bystander,False,False,0.00688012130558,,,297
+353,G,C-term,,C-term,no,no,no,0,97,bystander,False,False,0.00595239270478,,,307
+354,Y,C-term,,C-term,no,no,no,0,108.6,bystander,False,False,0.00607810355723,,,303
+355,S,C-term,,C-term,no,no,no,0,112.4,bystander,False,False,0.00590057391673,,,308
+356,S,C-term,,C-term,no,no,no,0,98.2,bystander,False,False,0.0057511171326,,,311
+357,N,C-term,,C-term,no,no,no,0,103.1,bystander,False,False,0.00512318545952,,,324
+358,G,C-term,,C-term,no,no,no,0,100.8,bystander,False,False,0.00510450173169,,,327
+359,N,C-term,,C-term,no,no,no,0,106.9,bystander,False,False,0.00491920299828,,,333
+360,T,C-term,,C-term,no,no,no,0,97.5,bystander,False,False,0.004498754628,,,351
+361,G,C-term,,C-term,no,no,no,0,92,bystander,False,False,0.00475683622062,,,338
+362,E,C-term,,C-term,no,no,no,0,71.9,bystander,False,False,0.00522789405659,,,323
+363,Q,C-term,,C-term,no,no,no,0,70.6,bystander,False,False,0.00470967637375,,,341
+364,S,C-term,,C-term,no,no,no,0,74.9,bystander,False,False,0.00508065894246,,,329
+365,G,C-term,,C-term,no,no,no,0,83.5,bystander,False,False,0.00463742483407,,,345
+366,Y,C-term,,C-term,no,no,no,0,92.8,bystander,False,False,0.00472874380648,,,340
+367,H,C-term,,C-term,no,no,no,0,90.8,bystander,False,False,0.00479065347463,,,337
+368,V,C-term,,C-term,no,no,no,0,94.5,bystander,False,False,0.00430630566552,,,356
+369,E,C-term,,C-term,no,no,no,0,96.3,bystander,False,False,0.00470386911184,,,343
+370,Q,C-term,,C-term,no,no,no,0,76.7,bystander,False,False,0.0048113130033,,,335
+371,E,C-term,,C-term,no,no,no,0,89.2,bystander,False,False,0.00467473641038,,,344
+372,K,C-term,,C-term,no,no,no,0,71.4,bystander,False,False,0.00441662082449,,,354
+373,E,C-term,,C-term,no,no,no,0,64.9,bystander,False,False,0.00475364131853,,,339
+374,N,C-term,,C-term,no,no,no,0,110,bystander,False,False,0.00458638137206,,,347
+375,K,C-term,,C-term,no,no,no,0,87,bystander,False,False,0.00445617362857,,,353
+376,L,C-term,,C-term,no,no,no,0,93,bystander,False,False,0.00405961461365,,,360
+377,L,C-term,,C-term,no,no,no,0,81.3,bystander,False,False,0.00449770502746,,,352
+378,C,C-term,,C-term,no,no,no,0,77.1,bystander,False,False,0.00585707370192,,,310
+379,E,C-term,,C-term,no,no,no,0,79.6,bystander,False,False,0.00430817808956,,,355
+380,D,C-term,,C-term,no,no,no,0,92.2,bystander,False,False,0.00457061780617,,,348
+381,L,C-term,,C-term,no,no,no,0,102.8,bystander,False,False,0.00380694167688,,,365
+382,P,C-term,,C-term,no,no,no,0,91.3,bystander,False,False,0.00451554078609,,,349
+383,G,C-term,,C-term,no,no,no,0,89.3,bystander,False,False,0.00426065875217,,,357
+384,T,C-term,,C-term,no,no,no,0,89.1,bystander,False,False,0.00381277268752,,,364
+385,E,C-term,,C-term,no,no,no,0,68.8,bystander,False,False,0.00378232658841,,,367
+386,D,C-term,,C-term,no,no,no,0,82.1,bystander,False,False,0.00366060831584,,,371
+387,F,C-term,,C-term,no,no,no,0,87.1,bystander,False,False,0.00385303981602,,,362
+388,V,C-term,,C-term,no,no,no,0,77.8,bystander,False,False,0.00341566838324,,,380
+389,G,C-term,,C-term,no,no,no,0,76.2,bystander,False,False,0.00358045264147,,,373
+390,H,C-term,,C-term,no,no,no,0,60,bystander,False,False,0.00408370327204,,,359
+391,Q,C-term,,C-term,no,no,no,0,70.1,bystander,False,False,0.00383856124245,,,363
+392,G,C-term,,C-term,no,no,no,0,49.9,bystander,False,False,0.00357850710861,,,374
+393,T,C-term,,C-term,no,no,no,0,86.6,bystander,False,False,0.00377387809567,,,368
+394,V,C-term,,C-term,no,no,no,0,97.7,bystander,False,False,0.00350470794365,,,377
+395,P,C-term,,C-term,no,no,no,0,96.2,bystander,False,False,0.00378852034919,,,366
+396,S,C-term,,C-term,no,no,no,0,87.5,bystander,False,False,0.00372410542332,,,370
+397,D,C-term,,C-term,no,no,no,0,77.4,bystander,False,False,0.00341038126498,,,381
+398,N,C-term,,C-term,no,no,no,0,81.3,bystander,False,False,0.00351938419044,,,376
+399,I,C-term,,C-term,no,no,no,0,82.4,bystander,False,False,0.00317665515468,,,384
+400,D,C-term,,C-term,no,no,no,0,66,bystander,False,False,0.0032787930686,,,383
+401,S,C-term,,C-term,no,no,no,0,93.2,bystander,False,False,0.00353210931644,,,375
+402,Q,C-term,,C-term,no,no,no,0,91.6,bystander,False,False,0.00346831139177,,,379
+403,G,C-term,,C-term,no,no,no,0,93.3,bystander,False,False,0.00328544923104,,,382
+404,R,C-term,,C-term,no,no,no,0,85.3,bystander,False,False,0.00372773734853,,,369
+405,N,C-term,,C-term,no,no,no,0,78.1,bystander,False,False,0.00349353440106,,,378
+406,C,C-term,,C-term,no,no,no,0,83.4,bystander,False,False,0.00462685246021,,,346
+407,S,C-term,,C-term,no,no,no,0,74,bystander,False,False,0.00409659463912,,,358
+408,T,C-term,,C-term,no,no,no,0,60.9,bystander,False,False,0.00358939706348,,,372
+409,N,C-term,,C-term,no,no,no,0,92.3,bystander,False,False,0.00396503228694,,,361
+410,D,C-term,,C-term,no,no,no,0,83.6,bystander,False,False,0.00450814096257,,,350
+411,S,C-term,,C-term,no,no,no,0,92.1,bystander,False,False,0.00509900180623,,,328
+412,L,C-term,,C-term,no,no,no,0,94.4,bystander,False,False,0.00479935063049,,,336
+413,L,C-term,,C-term,no,no,no,0,79.9,bystander,False,False,0.00676872115582,,,298
